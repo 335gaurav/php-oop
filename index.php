@@ -7,6 +7,7 @@ include('./includes/navbar.php');
 
 <div class="py-5">
   <div class="container">
+    <?php include("./message.php"); ?>
     <h1>Home Page</h1>
   </div>
 </div>
